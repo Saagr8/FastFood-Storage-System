@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.fastfood.storage.system;
+package FoodStorage;
 
 /**
  *
- * @author ipman
+ * @author Jeremiah
  */
 public class FastFoodStorageSystem {
 
